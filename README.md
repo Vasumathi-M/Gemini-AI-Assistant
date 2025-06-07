@@ -1,11 +1,9 @@
 # Gemini-AI-Assistant
 A lightweight, interactive AI chatbot UI built using HTML, CSS, and JavaScript, integrated with Google's Gemini API. This project allows users to chat with an AI model in a clean and responsive interface with light/dark theme toggle functionality.
-
 📸 Preview
-<!-- You can replace this with your actual screenshot path -->
+(Add your screenshot here)
 
 🚀 Features
-
 💬 Chat interface with auto-scroll and typing area
 
 🎨 Gradient text styling for "Gemini" branding
@@ -18,15 +16,12 @@ A lightweight, interactive AI chatbot UI built using HTML, CSS, and JavaScript, 
 
 🧠 Connects to Google Gemini API for AI responses
 
-
-
 🛠️ Technologies Used
+🔹 HTML5 for structure
 
-HTML5 for structure
-    
-CSS3 for design and dark theme
+🔹 CSS3 for design and dark theme
 
-Vanilla JavaScript for interactivity and API handling
+🔹 Vanilla JavaScript for interactivity and API handling
 
 Google Gemini API (Flash model)
 
