@@ -6,11 +6,17 @@ A lightweight, interactive AI chatbot UI built using HTML, CSS, and JavaScript, 
 
 🚀 Features
 💬 Chat interface with auto-scroll and typing area
+
 🎨 Gradient text styling for "Gemini" branding
+
 🌗 Dark/Light mode toggle
+
 ⚡ Smooth message animation
+
 🔄 Real-time response loading indicator
+
 🧠 Connects to Google Gemini API for AI responses
+
 
 🛠️ Technologies Used
     HTML5 for structure
