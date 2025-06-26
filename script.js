@@ -1,4 +1,4 @@
-const APIKey = "AIzaSyBqtIgmRGIRPraJqjraNXjaY5TIc5J2cJY";
+const APIKey = "YOUR_API_KEY";
 
 const APIURL= `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${APIKey}`;
 
